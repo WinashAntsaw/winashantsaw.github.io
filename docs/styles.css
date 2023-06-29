@@ -18,7 +18,7 @@ html{
   width: 0;
   animation: 
     typing 2s steps(20,end) forwards,
-    cursor 8s infinite;
+    cursor .8s infinite;
 }
 
 @keyframes typing{
