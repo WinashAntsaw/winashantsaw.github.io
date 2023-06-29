@@ -4,6 +4,7 @@ html{
   background-color: black;
   background-size: cover;
   color: white;
+  text-align: center
 }
 
 .container{
@@ -12,7 +13,7 @@ html{
 
 .typed{
   overflow: hidden;
-  border-right: .15em green;
+  border-right: .15em solid green;
   white-space: nowrap;
   width: 0;
   animation: typing 2s forwards;
