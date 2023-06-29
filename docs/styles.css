@@ -4,3 +4,12 @@ html{
   background-color: black;
   color: white;
 }
+
+.container{
+  display: inline-block;
+}
+
+.typed{
+  overflow: hidden;
+  border-right = .15em green;
+}
