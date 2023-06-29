@@ -30,3 +30,7 @@ html{
   from{ border-right: transparent }
   to{ border-right: solid white }
 }
+
+div:hover{
+  color:green;
+}
