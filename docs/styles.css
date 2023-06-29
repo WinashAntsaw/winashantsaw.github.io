@@ -17,7 +17,7 @@ html{
   white-space: nowrap;
   width: 0;
   animation: 
-    typing 2s steps(18,end) forwards,
+    typing 1s steps(18,end) forwards,
     cursor .8s infinite;
 }
 
@@ -33,4 +33,5 @@ html{
 
 div:hover{
   color:green;
+  font-weight:bold
 }
