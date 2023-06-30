@@ -36,7 +36,7 @@ html{
   to{ border-right: solid white }
 }
 
-div:hover{
+.typedTitle:hover{
   color:green;
   font-weight:bold
 }
