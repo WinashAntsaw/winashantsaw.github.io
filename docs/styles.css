@@ -15,6 +15,7 @@ html{
   overflow: hidden;
   border-right: .15em transparent;
   font-size: 3em;
+  font-weight:bold;
   white-space: nowrap;
   width: 0;
   animation: 
@@ -23,7 +24,8 @@ html{
 }
 
 .aboutMeContent{
-  width:50vw;
+  text-align:center;
+  width:10vw;
 }
 
 @keyframes typing{
