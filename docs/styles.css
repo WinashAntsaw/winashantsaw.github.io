@@ -1,5 +1,5 @@
 html{
-  font-family: "Source Sans Pro", sans-serif;
+  font-family:'Courier New', Courier, monospace;
   font-weight: normal;
   background-color: black;
   background-size: cover;
@@ -14,12 +14,16 @@ html{
 .typedTitle{
   overflow: hidden;
   border-right: .15em transparent;
-  font-size: 5em;
+  font-size: 3em;
   white-space: nowrap;
   width: 0;
   animation: 
     typing 1s steps(18,end) forwards,
     cursor .8s infinite;
+}
+
+.aboutMeContent{
+  width:50vw;
 }
 
 @keyframes typing{
